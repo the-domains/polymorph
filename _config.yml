@@ -1,6 +1,6 @@
 name: Polymorph
 favicon: null
-layout_spectrum: 0.4630456273443997
+layout_spectrum: 0.21981
 typography_spectrum: 0.3851363454014063
 title: The ghost of a website
 cta:
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.8355387900955975
+  brandColors:
+    - '#1d2538'
+    - '#cfcbc0'
+    - '#eee9d6'
+    - '#7a90a5'
+    - '#c49979'
+  brandStrength: 0.6875
   lightness: 0.14830423262901604
-  saturation: 0.9826045411173254
+  saturation: 0.8125
   rhythmicContrast: 0.6654250842984766
 purpose: []
